@@ -1,0 +1,11 @@
+jupyter-book
+matplotlib
+numpy
+pandas
+plotly
+dash
+dash_core_components
+dash_html_components
+jupyter_plotly_dash
+geopandas
+cufflinks
